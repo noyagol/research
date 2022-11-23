@@ -43,15 +43,26 @@ No mitigations are supplied for this issue
 ## References
 
 [http://www.securityfocus.com/bid/106740](http://www.securityfocus.com/bid/106740)
+
 [https://github.com/golang/go/commit/42b42f71cf8f5956c09e66230293dfb5db652360](https://github.com/golang/go/commit/42b42f71cf8f5956c09e66230293dfb5db652360)
+
 [https://github.com/golang/go/issues/29903](https://github.com/golang/go/issues/29903)
+
 [https://groups.google.com/forum/#!topic/golang-announce/mVeX35iXuSw](https://groups.google.com/forum/#!topic/golang-announce/mVeX35iXuSw)
+
 [https://www.debian.org/security/2019/dsa-4379](https://www.debian.org/security/2019/dsa-4379)
+
 [https://www.debian.org/security/2019/dsa-4380](https://www.debian.org/security/2019/dsa-4380)
+
 [https://github.com/google/wycheproof](https://github.com/google/wycheproof)
+
 [https://lists.debian.org/debian-lts-announce/2019/02/msg00009.html](https://lists.debian.org/debian-lts-announce/2019/02/msg00009.html)
+
 [http://lists.opensuse.org/opensuse-security-announce/2019-04/msg00042.html](http://lists.opensuse.org/opensuse-security-announce/2019-04/msg00042.html)
+
 [http://lists.opensuse.org/opensuse-security-announce/2019-05/msg00060.html](http://lists.opensuse.org/opensuse-security-announce/2019-05/msg00060.html)
+
 [http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00011.html](http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00011.html)
+
 [http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00015.html](http://lists.opensuse.org/opensuse-security-announce/2019-06/msg00015.html)
 
