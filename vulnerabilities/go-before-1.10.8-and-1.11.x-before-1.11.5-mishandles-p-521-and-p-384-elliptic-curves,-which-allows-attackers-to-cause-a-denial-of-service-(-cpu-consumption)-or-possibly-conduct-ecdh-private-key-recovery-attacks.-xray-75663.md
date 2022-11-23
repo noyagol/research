@@ -19,13 +19,17 @@ Go before 1.10.8 and 1.11.x before 1.11.5 mishandles P-521 and P-384 elliptic cu
 ## Component
 
 github.com/golang/go/src/crypto/elliptic
+
 github.com/golang/go
 
 ## Affected versions
 
 (,1.10.8)
+
 [1.11.0,1.11.5)
+
 (,1.10.8)
+
 [1.11.0,1.11.5)
 
 ## Description
