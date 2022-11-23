@@ -1,8 +1,8 @@
 ---
 description: CVE-2019-6486, HIGH, Go before 1.10.8 and 1.11.x before 1.11.5 mishandles P-521 and P-384 elliptic curves, which allows attackers to cause a denial of service (CPU consumption) or possibly conduct ECDH private key recovery attacks.
 title: Go before 1.10.8 and 1.11.x before 1.11.5 mishandles P-521 and P-384 elliptic curves, which allows attackers to cause a denial of service (CPU consumption) or possibly conduct ECDH private key recovery attacks.
-date_published: "2022-11-22"
-last_updated: "2022-11-22"
+date_published: "2022-11-23"
+last_updated: "2022-11-23"
 xray_id: XRAY-75663
 vul_id: CVE-2019-6486
 cvss: 8.2
